@@ -76,14 +76,12 @@ jobs:
 
       - name: Login to Amazon ECR
         id: login-ecr
-        # uses: aws-actions/amazon-ecr-login@v1
-        run: |
-          aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 966016525741.dkr.ecr.us-east-1.amazonaws.com
+        uses: aws-actions/amazon-ecr-login@v1
       
       
       - name: Pull latest images
         run: |
-         docker pull 966016525741.dkr.ecr.us-east-1.amazonaws.com/mlproj:latest
+         docker pull ${{secrets.AWS_ECR_LOGIN_URI}}/${{ secrets.ECR_REPOSITORY_NAME }}:latest
          
       # - name: Stop and remove container if running
       #   run: |

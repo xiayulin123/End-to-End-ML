@@ -1,4 +1,6 @@
-# End to End Machine Learning Flow
+<div align="center">
+
+<h1> End to End Machine Learning Flow </h1>
 
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
 ![MLflow](https://img.shields.io/badge/MLflow-2.2.2-brightgreen)
@@ -16,6 +18,7 @@
 ![MachineLearning Flow](https://img.shields.io/badge/MachineLearning%20Flow-1.0.0-blue)
 ![Flask-Cors](https://img.shields.io/badge/Flask--Cors-3.1.1-green)
 
+</div>
 
 ## Workflows
 

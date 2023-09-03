@@ -79,3 +79,33 @@ Select appropriate algorithms and set model parameters.</p>
 <h3>5. Model Evaluation</h3>
 <p>Assess model performance using evaluation metrics. <br>
 Test the model on an unseen dataset to measure accuracy and effectiveness.</p>
+
+# Demo
+
+## Prediction Setting
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/demo1.png)
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/demo2.png)
+
+## Train
+
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/train.png)
+
+## Result(Evaluation)
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/results.png)
+
+## GitAction
+
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/gitactions.png)
+
+
+## Daghub
+
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/daghub.png)
+
+## MLFLOW
+
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/mlflow.png)
+
+## EC2
+![Alt text](https://github.com/xiayulin123/End-to-End-ML/blob/main/ec2.png)
+

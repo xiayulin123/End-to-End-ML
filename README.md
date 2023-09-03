@@ -23,20 +23,27 @@
 <h2>🛠️ Workflows</h2>
 
 
-<p>1. Data Ingestion</p>
+<h3>1. Data Ingestion</h3>
 
-<h3>Acquire and collect raw data from various sources. <br>
-Import or stream data into the machine learning environment.</h3>
+<p>Acquire and collect raw data from various sources. <br>
+Import or stream data into the machine learning environment.</p>
 
-<p>2. Data Validation</p>
-Validate and clean the acquired data.
-Address missing values, outliers, and data quality issues.
-<p>3. Data Transformation</p>
-Transform the cleaned data into a format suitable for machine learning.
-Perform feature engineering and data preprocessing.
-<p>4. Model Trainer</p>
-Design, train, and fine-tune machine learning models.
-Select appropriate algorithms and set model parameters.
-<p>5. Model Evaluation</p>
-Assess model performance using evaluation metrics.
-Test the model on an unseen dataset to measure accuracy and effectiveness.
+<h3>2. Data Validation</h3>
+
+<p>
+Validate and clean the acquired data. <br>
+Address missing values, outliers, and data quality issues. </p>
+
+<h3>3. Data Transformation</h3>
+
+<p>Transform the cleaned data into a format suitable for machine learning. <br>
+Perform feature engineering and data preprocessing.</br>
+
+<h3>4. Model Trainer</h3>
+
+<p>Design, train, and fine-tune machine learning models. <br>
+Select appropriate algorithms and set model parameters.</p>
+
+<h3>5. Model Evaluation</h3>
+<p>Assess model performance using evaluation metrics. <br>
+Test the model on an unseen dataset to measure accuracy and effectiveness.</p>

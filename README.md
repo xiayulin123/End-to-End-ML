@@ -25,8 +25,8 @@
 
 <p>1. Data Ingestion</p>
 
-Acquire and collect raw data from various sources.
-Import or stream data into the machine learning environment.
+<h2>Acquire and collect raw data from various sources. <br>
+Import or stream data into the machine learning environment.</h2>
 
 <p>2. Data Validation</p>
 Validate and clean the acquired data.

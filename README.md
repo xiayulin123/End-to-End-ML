@@ -35,7 +35,7 @@ This ML Flow is designed to create a Wine Quality Prediction web app. It enables
 
 <h3>CI/CD Integration</h3>
 <p>Implement Continuous Integration and Continuous Deployment (CI/CD) using Git Actions. <br>
-Connect to an EC2 Large Instance for automated processes.</p>
+Specified EC2 Large Instance as the Git Actions Runner for automated processes.</p>
 
 <h3>Docker Image Creation</h3>
 <p>Build a Docker image within the EC2 environment.</p>

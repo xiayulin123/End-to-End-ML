@@ -49,7 +49,7 @@ Utilize Python to render the frontend.<br>
 Implement a simple REST API application for interaction.</p>
 
 
-<h2>🛠️ Workflows</h2>
+<h2>🛠️ Model Training Workflows</h2>
 
 
 <h3>1. Data Ingestion</h3>

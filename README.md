@@ -25,28 +25,28 @@ This ML Flow is designed to create a Wine Quality Prediction web app. It enables
 
 <h2>📝 ML Flow</h2>
 
-<h3>Environment Setup</h3>
+<h3>1. Environment Setup</h3>
 <p>Use Anaconda to create a Python environment to isolate dependencies from the local environment.</p>
-<h3>Requirements Installation</h3>
+<h3>2. Requirements Installation</h3>
 <p>Install the necessary Python packages and libraries required for the project</p>
 
-<h3>Model Development</h3>
+<h3>3. Model Development</h3>
 <p>Develop and train machine learning models within the isolated environment.</p>
 
-<h3>CI/CD Integration</h3>
+<h3>4. CI/CD Integration</h3>
 <p>Implement Continuous Integration and Continuous Deployment (CI/CD) using Git Actions. <br>
 Specified EC2 Large Instance as the Git Actions Runner for automated processes.</p>
 
-<h3>Docker Image Creation</h3>
+<h3>5. Docker Image Creation</h3>
 <p>Build a Docker image within the EC2 environment.</p>
 
-<h3>AWS ECR Integration</h3>
+<h3>6. AWS ECR Integration</h3>
 <p>Push the Docker image to Amazon Elastic Container Registry (ECR) for easy deployment.</p>
 
-<h3>Docker Image Retrieval</h3>
+<h3>7. Docker Image Retrieval</h3>
 <p>Pull the Docker image from ECR to the target environment.</p>
 
-<h3>Application Deployment</h3>
+<h3>8. Application Deployment</h3>
 <p>Run the Docker image, serving content on port 8080.<br>
 Utilize Python to render the frontend.<br>
 Implement a simple REST API application for interaction.</p>

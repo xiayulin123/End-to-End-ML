@@ -22,12 +22,23 @@
 
 ## Workflows
 
-1. Update config.yaml
-2. Update schema.yaml
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the app.py
+Data Ingestion
+
+Acquire and collect raw data from various sources.
+Import or stream data into the machine learning environment.
+Data Validation
+
+Validate and clean the acquired data.
+Address missing values, outliers, and data quality issues.
+Data Transformation
+
+Transform the cleaned data into a format suitable for machine learning.
+Perform feature engineering and data preprocessing.
+Model Trainer
+
+Design, train, and fine-tune machine learning models.
+Select appropriate algorithms and set model parameters.
+Model Evaluation
+
+Assess model performance using evaluation metrics.
+Test the model on an unseen dataset to measure accuracy and effectiveness.

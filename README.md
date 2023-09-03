@@ -20,6 +20,9 @@
 
 </div>
 
+## 🌱 Project Introduction
+This ML Flow is designed to create a Wine Quality Prediction web app. It enables users to train the model and input data with parameters such as residual sugar, chlorides, and other components to predict the quality of wine.
+
 <h2>📝 ML Flow</h2>
 
 <h3>Environment Setup</h3>
